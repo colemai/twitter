@@ -1,0 +1,2 @@
+
+Add the host domain to config/environments/production.rb
